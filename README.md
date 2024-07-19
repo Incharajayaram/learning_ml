@@ -10,4 +10,4 @@ the progress so far:
 | libraries     | status          |
 | :------------ |:---------------:| 
 | numpy         | ✅ | 
-  
+| pandas | | 
